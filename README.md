@@ -1,6 +1,8 @@
-# Monitoramento de Gravações CFTV – Via OneDrive
+# Automação Auditoria CFTV - Via OneDrive
 
 Este projeto foi desenvolvido para atender a uma necessidade real em ambiente corporativo: **monitorar as gravações salvas de sistemas de monitoramento**, como **Intelbras**, **Digifort** e **iVMS**, distribuídos em múltiplos discos locais de várias máquinas.
+
+`Confira a versão mais atualizada desta solução em:` [n33miaz/relatorio-auditoria_gravacoes_cftv](https://github.com/n33miaz/relatorio-auditoria_gravacoes_cftv).
 
 ## Motivação
 
